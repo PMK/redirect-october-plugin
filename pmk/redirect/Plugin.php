@@ -1,6 +1,5 @@
 <?php namespace PMK\Redirect;
 
-use Event;
 use System\Classes\PluginBase;
 
 class Plugin extends PluginBase
