@@ -20,6 +20,11 @@ class RedirectInternal extends RedirectComponent
             'redirectInternal' => [
                 'title'             => 'Redirect to',
                 'type'              => 'dropdown'
+            ],
+            'statusCode' => [
+                'title'             => 'Status code',
+                'type'              => 'dropdown',
+                'default'           => '302'
             ]
         ];
     }
@@ -28,5 +33,5 @@ class RedirectInternal extends RedirectComponent
     {
         return Page::sortBy('baseFileName')->lists('baseFileName', 'baseFileName');
     }
-    
+
 }

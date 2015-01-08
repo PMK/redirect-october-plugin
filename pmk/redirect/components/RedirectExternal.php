@@ -20,6 +20,11 @@ class RedirectExternal extends RedirectComponent
                 'title'             => 'Redirect to',
                 'type'              => 'string',
                 'default'           => 'http://'
+            ],
+            'statusCode' => [
+                'title'             => 'Status code',
+                'type'              => 'dropdown',
+                'default'           => '302'
             ]
         ];
     }
