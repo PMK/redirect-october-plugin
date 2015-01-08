@@ -9,7 +9,7 @@ class Plugin extends PluginBase
     {
         return [
             'name'        => 'Redirect',
-            'description' => 'Plugin for October CMS to redirect a page to an internal page, or to an external url, by adding a component.',
+            'description' => 'Redirect a page to an internal page, or to an external url.',
             'author'      => 'Patrick Klaassen',
             'icon'        => 'icon-hand-o-right',
             'homepage'    => 'https://github.com/PMK/redirect-october-plugin'
