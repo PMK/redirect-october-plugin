@@ -1,5 +1,6 @@
 {
     "name": "pmk/redirect-october-plugin",
+    "version": "1.0.0",
     "description": "Plugin for October CMS to redirect a page to an internal page, or to an external url, by adding a component.",
     "homepage": "https://github.com/PMK/redirect-october-plugin",
     "license": "MIT",
@@ -9,8 +10,5 @@
             "name": "Patrick Klaassen",
             "email": "october@pmklaassen.com"
         }
-    ],
-    "require": {
-        "php": ">=5.4.0"
-    }
+    ]
 }

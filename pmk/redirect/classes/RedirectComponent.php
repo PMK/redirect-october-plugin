@@ -9,7 +9,7 @@ abstract class RedirectComponent extends ComponentBase
 
     public function onRun()
     {
-        $url = "";
+        $url = '';
         $status = '302';
 
         if ($this->property('redirectInternal') !== null) {
@@ -25,7 +25,7 @@ abstract class RedirectComponent extends ComponentBase
         }
 
         if (!!strlen($url)) {
-            header("Location: " . $url, true, $status);
+            header('Location: ' . $url, true, $status);
             exit;
         }
     }

@@ -12,18 +12,7 @@ Add a redirect component on a page and change its values. You can choose between
 
 ## Features
 - Create a redirect to an internal page, or external url.
-- Redirect using a status code (temporary or permanent redirecting).
-
-## Future
-The plugin is working like a simple redirect. These features in the list here below could be added over time.
-
-- Validations (input value, the link itself, internal page is existing, already a redirect available, etc)
-- Redirect with custom URL params
-- Redirect components "back", "home", "404", "error" (?)
-- Redirect secure (?)
-- Redirect message (showing "you are leaving this website") (?)
-- Redirect with cookie and/or session (?)
-- Redirect wait time (redirect after x seconds) (?)
+- Redirect using a status code (temporary or permanent redirecting, as in 301 or 302).
 
 ## License
 [MIT License](http://pmk.mit-license.org/)

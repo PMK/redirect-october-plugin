@@ -19,7 +19,7 @@ class RedirectExternal extends RedirectComponent
             'redirectExternal' => [
                 'title'             => 'Redirect to',
                 'type'              => 'string',
-                'default'           => 'http://'
+                'default'           => 'https://'
             ],
             'statusCode' => [
                 'title'             => 'Status code',

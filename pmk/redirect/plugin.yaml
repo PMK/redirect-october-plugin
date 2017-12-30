@@ -1,0 +1,6 @@
+plugin:
+    name: 'pmk.redirect::lang.plugin.name'
+    description: 'pmk.redirect::lang.plugin.description'
+    author: PMK
+    icon: oc-icon-hand-o-right
+    homepage: 'https://github.com/PMK/redirect-october-plugin'
