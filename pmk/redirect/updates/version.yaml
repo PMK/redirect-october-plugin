@@ -2,3 +2,4 @@
 0.0.2: Added status code support (default 302)
 1.0.0: Refactored code after 3 years
 1.0.1: Fixed bug about plugin update notification
+1.0.1.1: Correct versioning in composer.json
