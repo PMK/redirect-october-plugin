@@ -5,6 +5,7 @@
     "homepage": "https://github.com/PMK/redirect-october-plugin",
     "license": "MIT",
     "keywords": ["october", "cms", "laravel", "redirect", "plugin"],
+    "type": "october-plugin",
     "authors": [
         {
             "name": "Patrick Klaassen",
