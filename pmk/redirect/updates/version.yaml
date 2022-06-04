@@ -3,3 +3,4 @@
 1.0.0: Refactored code after 3 years
 1.0.1: Fixed bug about plugin update notification
 1.0.1.1: Correct versioning in composer.json
+1.0.2: Added symlink to the required Plugin.php in the root
